@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohamed amine sidhom
-- 👀 I’m interested in web development, iot project and desktop project 
-- 🌱 I’m currently learning Embedded systems and IoT
+- 👀 I’m interested in web development,desktop projects and cloud computing 
+- 🌱 I’m currently learning Architecture IT Et Cloud Computing 
 - 
 
 <!---
