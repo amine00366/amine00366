@@ -5,38 +5,38 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/khaledg4g">Mohamed Khaled Baoueb</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/amine00366">Mohamed amine Sidhom</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 
 <p align="center">
-<a href="https://www.facebook.com/khaled.baoueb/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/khaledbaoueb/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mouhamed-khaled-baoueb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/amine.sidhom.10/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/sidhom_amine/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-amine-sidhom-78826330b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 
-  <a href="https://github.com/khaledg4g?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/khaledg4g?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/khaledg4g"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/khaledg4g?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/amine00366?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/amine00366?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/amine00366"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/amine00366?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
 
 
 <div>
     <h4>Visitors :</h4>
-    <img src="https://visitor-count-b8lb.vercel.app/api/khaledg4g?hexColor=5ed4f3" />
+    <img src="https://visitor-count-b8lb.vercel.app/api/amine00366?hexColor=5ed4f3" />
 </div>
    </p>
 
 <h3 align="center">A Passionate and results-driven final-year engineering student specializing in Cloud Computing & DevOps, seeking an end-of-study internship</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [FH Schmalkalden University of Applied Sciences](https://www.hs-schmalkalden.de/)
-- 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mouhamedkhaledbaoueb@gmail.com
+- 📫 How to reach me : mk.sidhom@stud.fh-sm.de / aminesidhom8@gmail.com
 
 
 
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=khaledg4g&theme=radical&row=2&column=5&no-bg=true&no-frame=true)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=amine00366&theme=radical&row=2&column=5&no-bg=true&no-frame=true)
 
 
 
