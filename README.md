@@ -30,7 +30,7 @@
 
 <h3 align="center">A Passionate and results-driven final-year engineering student specializing in Cloud Computing & DevOps, seeking an end-of-study internship</h3>
 
-- 🎓 I’m currently a Software Engineering Student at [FH Schmalkalden University of Applied Sciences](https://www.hs-schmalkalden.de/)
+- 🎓 I’m currently a Software Engineering Student at [University Of Marburg - University of Applied Sciences, Germany]
 - 📫 How to reach me : ma.sidhom@stud.fh-sm.de / aminesidhom8@gmail.com
 
 
